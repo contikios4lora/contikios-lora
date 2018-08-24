@@ -12,6 +12,7 @@ If you copy this theme for your own needs, feel free to customize the colors how
 
 If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme
 
+
 # License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
